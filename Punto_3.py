@@ -9,4 +9,4 @@ while  numero >= 0:
   
    print(" la suma de los numeros positivos es:", suma)
 
-   
+  #  luis peñaloza
